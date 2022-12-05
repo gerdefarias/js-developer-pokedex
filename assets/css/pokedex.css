@@ -6,6 +6,10 @@
     list-style: none;
 }
 
+.default {
+    background-color: #383838;
+}
+
 .normal {
     background-color: #a6a877;
 }
